@@ -16,7 +16,7 @@ We welcome contributions from the community! Please read our [contributing guide
 
 ## License 📄
 
-API-Meister is released under the [MIT License](/LICENSE).
+API-Meister is released under the [MIT License](/LICENSE.txt).
 
 ## Support & Feedback 💬
 
